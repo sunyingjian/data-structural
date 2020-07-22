@@ -1,5 +1,3 @@
-＃数据结构
+数据分析——numpy、pandas、matplotlib 练习
 
-学习中国大学mooc程序设计与算法（二）的练习源码
-
-https://www.icourse163.org/learn/PKU-1001894005#/learn/announce
+https://www.bilibili.com/video/BV1hx411d7jb?p=24
